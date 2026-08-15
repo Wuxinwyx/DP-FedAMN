@@ -16,7 +16,7 @@
 
 [9] Wang et al., “Subsampled Rényi Differential Privacy and Analytical Moments Accountant,” AISTATS 2019.
 
-[10] Duan et al., “Analyzing and Optimizing Perturbation of DP-SGD Geometrically,” ICDE 2025
+[10] Duan et al., “Analyzing and Optimizing Perturbation of DP-SGD Geometrically,” ICDE 2025.
 
 [11] Yi et al., “pFedAFM: Adaptive Feature Mixture for Data-Level Personalization in Heterogeneous Federated Learning on Mobile Edge Devices,” ICDE 2025.
 
